@@ -5,6 +5,9 @@ Scratch GUI is a set of React components that comprise the interface for creatin
 To open the current build in your browser on Github Pages:
 
 https://scratchfoundation.github.io/scratch-gui/
+## changes I have made
+
+1, I will try to change the annoying feature where the "can't save" popup covers the green flag
 
 ## Installation
 
